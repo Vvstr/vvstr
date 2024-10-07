@@ -8,8 +8,8 @@
 
 | Название проекта | Область | Описание | Стек и методы | Дата |
 | --- | --- | --- | --- | --- |
-| [Классификация отзывов](https://github.com/Vvstr/SignRec) | NLP | Система классификации отзыва, которая определяет отзыв положительный или отрицательный. | numpy, pandas, sklearn, matplotlib | 19.02.24 |
-| [Классификация жестов](https://github.com/Vvstr/ReviewClassification) | CV | Разработка системы распознавания жестов на основе модели SignBert+. | pytorch, manotorch, numpy | 25.09.24 |
+| [Классификация отзывов](https://github.com/Vvstr/ReviewClassification) | NLP | Система классификации отзыва, которая определяет отзыв положительный или отрицательный. | numpy, pandas, sklearn, matplotlib | 19.02.24 |
+| [Классификация жестов](https://github.com/Vvstr/SignRec) | CV | Разработка системы распознавания жестов на основе модели SignBert+. | pytorch, manotorch, numpy | 25.09.24 |
 
 ### Общий стэк
 
