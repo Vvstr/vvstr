@@ -13,7 +13,7 @@ Track record
   
 | Name of the competition | Area | Description | Key Technologies | Metrics | Result | Date |
 | --- | --- | --- | --- | --- | --- | --- |
-| [ Alfa x FinU Hack]([https://github.com/fluke8/alfa-finu-hack-2024 ](https://github.com/Vvstr/Alfa-FinU )) | Timeseries | Prediction of the customer's transition from one product cluster to another | pandas, catboost | ROC-AUC = 0.907 | 4th place | 02/14/24 |
+| [ Alfa x FinU Hack] | (https://github.com/Vvstr/Alfa-FinU ) | Timeseries | Prediction of the customer's transition from one product cluster to another | pandas, catboost | ROC-AUC = 0.907 | 4th place | 02/14/24 |
 | [VK x HSE Data Hack] | NLP | Text classification, tag selection | selenium, BERT | F1-score = 0.91 | - | 21.04.24 |
 | [Gagarin Hackathon](https://github.com/Vvstr/Gagarin-Hack ) | NLP | Sentiment analysis of telegram channels in the stock market | spacy, PyTorch | F1-score = 0.6 | 18th place | 04/13.24 |
 | [All-Russian Hackathon](https://github.com/Vvstr/duplicate_video_hack ) | CV | Search for duplicate Yappy videos | 3D-CSL, CLAP, Optuna | F1-score = 0.96 | - | 27.10.24 |
