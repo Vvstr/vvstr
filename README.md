@@ -1,6 +1,3 @@
-<h1 align="left">Hi, I'm Salman 👋</h1>
-<h3 align="left">A skillful data scientist proficient in CV\NLP and machine learning</h3>
-
 - 💬 [My Telegram](https://t.me/totoroch)
   
 - 📫 My email: **avb121@tpu.ru**
@@ -10,24 +7,24 @@
 
 =============================================
 
-# Проекты, которые я реализовал в Machine Learning 
+# Projects that I have implemented in Machine Learning
 
-Достижения
+Track record
   
-| Название соревнования | Область | Описание | Ключевые технологии | Метрики | Результат | Дата |
+| Name of the competition | Area | Description | Key Technologies | Metrics | Result | Date |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alfa x FinU Hack]([https://github.com/fluke8/alfa-finu-hack-2024](https://github.com/Vvstr/Alfa-FinU)) | Timeseries | Предсказание перехода клиента из одного продуктового кластера в другой | pandas, catboost | ROC-AUC = 0.907 | 4 место | 14.02.24 |
-| [VK x HSE Data Hack] | NLP | Классификация текстов, выделение тегов | selenium, BERT | F1-score = 0.91 | - |  21.04.24 |
-| [Гагаринский хакатон](https://github.com/Vvstr/Gagarin-Hack) | NLP | Sentiment analysis telegram-каналов на рынке акций | spacy, PyTorch | F1-score = 0.6 | 18 место | 13.04.24 |
-| [Всероссийский хакатон](https://github.com/Vvstr/duplicate_video_hack) | CV | Поиск дубликатов видео Yappy | 3D-CSL, CLAP, Optuna | F1-score = 0.96 | - | 27.10.24 |
+| [ Alfa x FinU Hack]([https://github.com/fluke8/alfa-finu-hack-2024 ](https://github.com/Vvstr/Alfa-FinU )) | Timeseries | Prediction of the customer's transition from one product cluster to another | pandas, catboost | ROC-AUC = 0.907 | 4th place | 02/14/24 |
+| [VK x HSE Data Hack] | NLP | Text classification, tag selection | selenium, BERT | F1-score = 0.91 | - | 21.04.24 |
+| [Gagarin Hackathon](https://github.com/Vvstr/Gagarin-Hack ) | NLP | Sentiment analysis of telegram channels in the stock market | spacy, PyTorch | F1-score = 0.6 | 18th place | 04/13.24 |
+| [All-Russian Hackathon](https://github.com/Vvstr/duplicate_video_hack ) | CV | Search for duplicate Yappy videos | 3D-CSL, CLAP, Optuna | F1-score = 0.96 | - | 27.10.24 |
 
-Пет-проекты
+Pet projects
   
-| Название проекта | Область | Описание | Ключевые технологии | Дата |
+| Project Name | Area | Description | Key Technologies | Date |
 | --- | --- | --- | --- | --- |
-| [Классификация жестов](https://github.com/Vvstr/SignRec) | CV | Разработка простой системы распознавания жестов. | opencv, keras | 22.01.24 |
-| [Классификация отзывов](https://github.com/Vvstr/ReviewClassification) | NLP | Cистема классификации отзыва, которая определяет отзыв положительный или отрицательный. | pandas, sklearn | 19.02.24 |
+| [Gesture Classification](https://github.com/Vvstr/SignRec ) | CV | Development of a simple gesture recognition system. | opencv, keras | 22.01.24 |
+| [Classification of reviews](https://github.com/Vvstr/ReviewClassification ) | NLP | A review classification system that determines whether a review is positive or negative. | pandas, sklearn | 19.02.24 |
 
 
 
-[Ссылка на резюме](https://tomsk.hh.ru/resume/c8f05ad7ff0bd5909a0039ed1f51516567574f)
+[Link to resume](https://tomsk.hh.ru/resume/c8f05ad7ff0bd5909a0039ed1f51516567574f )
