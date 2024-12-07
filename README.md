@@ -22,7 +22,7 @@ Pet projects
   
 | Project Name | Area | Description | Key Technologies | Date |
 | --- | --- | --- | --- | --- |
-| [Gesture Classification](https://github.com/Vvstr/SignRec ) | CV | Development of a simple gesture recognition system. | opencv, keras | 22.01.24 |
+| [Gesture Classification](https://github.com/Vvstr/SignRec ) | CV | Development of a gesture recognition system. | opencv, keras | 22.01.24 |
 | [Classification of reviews](https://github.com/Vvstr/ReviewClassification ) | NLP | A review classification system that determines whether a review is positive or negative. | pandas, sklearn | 19.02.24 |
 
 
